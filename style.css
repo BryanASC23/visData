@@ -1,0 +1,36 @@
+#content {
+    display: flex;
+    justify-content: center;
+}
+
+#title{
+    margin-left: 37%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#name, #email, #password, #dob, #Address, #phone {
+    font-size: 20px;
+}
+
+img{
+    width: 300px;
+}
+
+#gender{
+    padding-left: 130px;
+    font-size: 30px;
+
+}
+
+#new_btn{
+    margin-left: 50%;
+    padding: 15px;
+    font-size: x-large;
+}
+#info{
+    padding-left: 30px;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
